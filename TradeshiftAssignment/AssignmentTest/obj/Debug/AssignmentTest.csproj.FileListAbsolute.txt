@@ -1,0 +1,9 @@
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\AssignmentTest.dll
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\AssignmentTest.pdb
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\Domain.dll
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\Logic.dll
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\Domain.pdb
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\bin\Debug\Logic.pdb
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\obj\Debug\AssignmentTest.csprojResolveAssemblyReference.cache
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\obj\Debug\AssignmentTest.dll
+E:\WorkSpace\TradeshiftAssignment\AssignmentTest\obj\Debug\AssignmentTest.pdb

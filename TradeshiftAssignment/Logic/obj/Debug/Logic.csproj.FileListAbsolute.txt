@@ -1,0 +1,7 @@
+E:\WorkSpace\TradeshiftAssignment\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Logic.dll
+E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Logic.pdb
+E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Domain.dll
+E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Domain.pdb
+E:\WorkSpace\TradeshiftAssignment\Logic\obj\Debug\Logic.dll
+E:\WorkSpace\TradeshiftAssignment\Logic\obj\Debug\Logic.pdb
