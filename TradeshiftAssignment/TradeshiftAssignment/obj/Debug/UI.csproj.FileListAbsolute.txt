@@ -1,0 +1,6 @@
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.exe.config
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.exe
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.pdb
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.exe.config
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.exe
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.pdb

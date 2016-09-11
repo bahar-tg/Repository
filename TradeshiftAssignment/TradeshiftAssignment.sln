@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeshiftAssignment", "TradeshiftAssignment\TradeshiftAssignment.csproj", "{17271582-5677-4483-9B77-4E6D0C08DAB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "TradeshiftAssignment\UI.csproj", "{17271582-5677-4483-9B77-4E6D0C08DAB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{65DF6E65-8B76-42FD-A755-D63A8C623968}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{D8722316-BD89-4068-91B5-48302BA870BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentTest", "AssignmentTest\AssignmentTest.csproj", "{05DEB891-482D-43EA-955C-EF5ABE1F71E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "AssignmentTest\Test.csproj", "{05DEB891-482D-43EA-955C-EF5ABE1F71E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
