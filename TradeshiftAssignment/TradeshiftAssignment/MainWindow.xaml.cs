@@ -25,23 +25,27 @@ namespace TradeshiftAssignment
                 if (!aIsInteger)
                 {
                     message += string.Format(ErrorInput, "A");
+                    TxtA.Text = string.Empty;
                 }
                 if (!bIsInteger)
                 {
                     if (!string.IsNullOrWhiteSpace(message))
                         message += "\n";
                     message += string.Format(ErrorInput, "B");
+                    TxtB.Text = string.Empty;
                 }
                 if (!cIsInteger)
                 {
                     if (!string.IsNullOrWhiteSpace(message))
                         message += "\n"; 
                     message += string.Format(ErrorInput, "C");
+                    TxtC.Text = string.Empty;
                 }
 
                 MessageBox.Show(Application.Current.MainWindow, message);
             }
         }
+        
 
         public MainWindow()
         {

@@ -4,3 +4,17 @@ E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssi
 D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.exe.config
 D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.exe
 D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.pdb
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.exe
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.pdb
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.dll
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.dll
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.pdb
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.pdb
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\MainWindow.baml
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\MainWindow.g.cs
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\App.g.cs
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment_MarkupCompile.cache
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.g.resources
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.Properties.Resources.resources
+D:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.csproj.GenerateResource.Cache
