@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using Logic;
 
-namespace TradeshiftAssignment
+namespace UI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -14,9 +14,9 @@ namespace TradeshiftAssignment
         {
             LblResult.Content = string.Empty;
             int sideA, sideB, sideC;
-            var aIsInteger = int.TryParse(TxtA.Text, out sideA);
-            var bIsInteger = int.TryParse(TxtB.Text, out sideB);
-            var cIsInteger = int.TryParse(TxtC.Text, out sideC);
+            var aIsInteger = int.TryParse(TxtA.Text, out sideA) && sideA >0;
+            var bIsInteger = int.TryParse(TxtB.Text, out sideB) && sideB >0;
+            var cIsInteger = int.TryParse(TxtC.Text, out sideC) && sideC >0;
             if (aIsInteger && bIsInteger && cIsInteger)
                 LblResult.Content = TriangleLogic.GetTriangleType(sideA, sideB, sideC).ToString();
             else
@@ -24,16 +24,19 @@ namespace TradeshiftAssignment
                 var message = string.Empty;
                 if (!aIsInteger)
                 {
+                    TxtA.Text = string.Empty;
                     message += string.Format(ErrorInput, "A");
                 }
                 if (!bIsInteger)
                 {
+                    TxtB.Text = string.Empty;
                     if (!string.IsNullOrWhiteSpace(message))
                         message += "\n";
                     message += string.Format(ErrorInput, "B");
                 }
                 if (!cIsInteger)
                 {
+                    TxtC.Text = string.Empty;
                     if (!string.IsNullOrWhiteSpace(message))
                         message += "\n"; 
                     message += string.Format(ErrorInput, "C");

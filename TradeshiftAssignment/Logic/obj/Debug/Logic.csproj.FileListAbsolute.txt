@@ -5,3 +5,10 @@ E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Domain.dll
 E:\WorkSpace\TradeshiftAssignment\Logic\bin\Debug\Domain.pdb
 E:\WorkSpace\TradeshiftAssignment\Logic\obj\Debug\Logic.dll
 E:\WorkSpace\TradeshiftAssignment\Logic\obj\Debug\Logic.pdb
+E:\Repository\TradeshiftAssignment\Logic\bin\Debug\Logic.dll
+E:\Repository\TradeshiftAssignment\Logic\bin\Debug\Logic.pdb
+E:\Repository\TradeshiftAssignment\Logic\bin\Debug\Domain.dll
+E:\Repository\TradeshiftAssignment\Logic\bin\Debug\Domain.pdb
+E:\Repository\TradeshiftAssignment\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\Repository\TradeshiftAssignment\Logic\obj\Debug\Logic.dll
+E:\Repository\TradeshiftAssignment\Logic\obj\Debug\Logic.pdb

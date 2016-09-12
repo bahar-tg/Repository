@@ -1,0 +1,17 @@
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.dll
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.dll
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.pdb
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.pdb
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\MainWindow.baml
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\MainWindow.g.cs
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\App.g.cs
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\UI.exe.config
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\UI.exe
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\UI.pdb
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI_MarkupCompile.cache
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.g.resources
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.Properties.Resources.resources
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.exe
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\UI.pdb

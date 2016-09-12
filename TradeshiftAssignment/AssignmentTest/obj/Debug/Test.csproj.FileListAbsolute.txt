@@ -1,0 +1,11 @@
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\AssignmentTest.dll
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\AssignmentTest.pdb
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Domain.dll
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Logic.dll
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Domain.pdb
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Logic.pdb
+E:\Repository\TradeshiftAssignment\AssignmentTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Repository\TradeshiftAssignment\AssignmentTest\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Repository\TradeshiftAssignment\AssignmentTest\obj\Debug\AssignmentTest.dll
+E:\Repository\TradeshiftAssignment\AssignmentTest\obj\Debug\AssignmentTest.pdb

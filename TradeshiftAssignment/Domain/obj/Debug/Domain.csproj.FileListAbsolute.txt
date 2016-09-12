@@ -3,3 +3,8 @@ E:\WorkSpace\TradeshiftAssignment\Domain\bin\Debug\Domain.pdb
 E:\WorkSpace\TradeshiftAssignment\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 E:\WorkSpace\TradeshiftAssignment\Domain\obj\Debug\Domain.dll
 E:\WorkSpace\TradeshiftAssignment\Domain\obj\Debug\Domain.pdb
+E:\Repository\TradeshiftAssignment\Domain\bin\Debug\Domain.dll
+E:\Repository\TradeshiftAssignment\Domain\bin\Debug\Domain.pdb
+E:\Repository\TradeshiftAssignment\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Repository\TradeshiftAssignment\Domain\obj\Debug\Domain.dll
+E:\Repository\TradeshiftAssignment\Domain\obj\Debug\Domain.pdb

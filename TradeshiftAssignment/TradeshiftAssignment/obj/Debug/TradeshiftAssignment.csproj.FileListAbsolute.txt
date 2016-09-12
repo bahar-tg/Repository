@@ -15,3 +15,6 @@ E:\WorkSpace\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.dll
 E:\WorkSpace\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.dll
 E:\WorkSpace\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Domain.pdb
 E:\WorkSpace\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\Logic.pdb
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\bin\Debug\TradeshiftAssignment.exe.config
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.exe
+E:\Repository\TradeshiftAssignment\TradeshiftAssignment\obj\Debug\TradeshiftAssignment.pdb
